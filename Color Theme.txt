@@ -1,0 +1,14 @@
+Color Theme
+
+	-	white
+	-	font dark
+	-	font base
+	-	font link
+	-	contrast
+	-	footer
+	-	footer base
+	-	font light
+	-	success - green
+	-	danger - red
+	-	primary
+	-	primary-tint
