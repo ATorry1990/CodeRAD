@@ -39,7 +39,9 @@ body {
   padding: 0;
 }
 
-a {
+*,
+::after,
+::before {
   box-sizing: border-box;
 }
 
